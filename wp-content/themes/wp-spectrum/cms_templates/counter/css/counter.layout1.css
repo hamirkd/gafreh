@@ -1,0 +1,15 @@
+.cshero-counter-wrap.counter-layout1:hover {
+	cursor: pointer;
+}
+.cshero-counter-wrap.counter-layout1 .cs-header {
+	margin-bottom: 0;
+}
+.cshero-counter-wrap.counter-layout1 .cshero-counter-inner .counter,
+.cshero-counter-wrap.counter-layout1 .cshero-counter-inner .counter_text {
+	line-height: normal;
+	font-weight: 700;
+	margin: 5px 0;
+}
+.light .counter_text {
+	font-weight: 300;
+}

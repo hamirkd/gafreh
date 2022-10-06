@@ -1,0 +1,55 @@
+/* =======================================
+||			   LearnDash				|| 
+======================================= */
+/* Course List */
+.lms-course-list {
+	position: relative;
+}
+.lms-course-list + .lms-course-list{
+	margin-top: 30px;
+}
+.lms-course-list .lms-course-item-inner{
+	position: relative;
+	-webkit-transition:all 0.3s linear 0s;
+	-moz-transition:all 0.3s linear 0s;
+	-ms-transition:all 0.3s linear 0s;
+	-o-transition:all 0.3s linear 0s;
+	transition:all 0.3s linear 0s;
+	display: table;
+}
+.lms-course-list .lms-course-image{
+	display: table-cell;
+	vertical-align: top;
+}
+.lms-course-list .lms-course-image img{
+	width: 100%;
+	max-width: 100%;
+}
+.lms-course-list .lms-course-content{
+	padding: 20px 20px 50px 30px;
+	display: table-cell;
+	vertical-align: top;
+	background: #f7f7f7;
+	position: relative;
+}
+.lms-course-list .lms-course-content .readmore{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: #bbbbbb;
+	text-align: center;
+	-webkit-transition:all 0.3s linear 0s;
+	-moz-transition:all 0.3s linear 0s;
+	-ms-transition:all 0.3s linear 0s;
+	-o-transition:all 0.3s linear 0s;
+	transition:all 0.3s linear 0s;
+}
+.lms-course-list .lms-course-content .readmore a{
+	color: #fff;
+	border: none;
+}
+/* Hover state */
+.lms-course-list .lms-course-item:hover .lms-course-content .readmore{
+	
+}

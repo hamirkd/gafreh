@@ -1,0 +1,26 @@
+.fancybox-layout8 .cshero-fancybox-content {
+	height: auto;
+    left: 0;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    padding: 0 40px;
+    -webkit-transform: translate(0px, -50%);
+       -moz-transform: translate(0px, -50%);
+        -ms-transform: translate(0px, -50%);
+         -o-transform: translate(0px, -50%);
+            transform: translate(0px, -50%);
+}
+.fancybox-layout8 h2.cshero-fancybox-title-wrap {
+	color: #ffd50f;
+    font-size: 30px;
+    font-weight: 500;
+}
+.fancybox-layout8 .cshero-read-more {
+	padding-top: 3px;
+}
+.fancybox-layout8 .cshero-read-more a {
+	color: #fff;
+	font-size: 18px;
+	font-weight: 500;
+}

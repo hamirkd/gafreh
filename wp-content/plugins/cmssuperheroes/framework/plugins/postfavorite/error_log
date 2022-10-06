@@ -1,0 +1,1 @@
+[26-May-2017 17:55:25 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/plugins/postfavorite/post_favorite.php on line 4

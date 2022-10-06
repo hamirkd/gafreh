@@ -1,0 +1,1 @@
+[12-Jun-2017 04:52:04 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/shortcodes/eventscarousel/eventscarousel.php on line 2

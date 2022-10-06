@@ -1,0 +1,57 @@
+.cs-process-layout2 .cshero-process-holder{
+	list-style:none;
+	padding:0;
+	position:relative;
+	overflow: hidden;
+}
+.cs-process-layout2 .cshero-process-holder li {
+	margin-bottom: 60px;
+}
+.cs-process-layout2 .cshero-process-holder li i {
+	background: #fff;
+	color: #59c6df;
+	font-size: 30px;
+	height: 70px;
+	line-height: 70px;
+	width: 70px;
+	display: block;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	-ms-border-radius:50%;
+	-o-border-radius:50%;
+	border-radius:50%;
+}
+.cs-process-layout2 .cshero-process-holder li .cshero-process-inner {
+	display: inline-block;
+	float: left;
+}
+.cshero-process-content-padding {
+	padding-left: 15px;
+}
+.cs-process-layout2 .cshero-process-holder li:last-child .cshero-process-inner {
+	position: relative;
+}
+.cs-process-layout2 .cshero-process-holder li:last-child .cshero-process-inner:after {
+	border-left: 2px dashed #c5c5c5;
+    left: 0;
+    content: "";
+    width: 2px;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 10000px;
+}
+.cs-process-layout2 .cshero-process-title {
+	margin-top: 0;
+}
+.cs-process-layout2 .cshero-process-title span {
+	display:block;
+}
+.cs-process-layout2 .cshero-process-text {
+	font-size: 13px;
+	line-height: 26px;
+}

@@ -1,0 +1,53 @@
+.cshero-shopcarousel-layout1 .cs-carousel-product-list {
+    border: 1px solid #ededed;
+    background: #fff;
+}
+.cshero-shopcarousel-layout1 .cs-header h3 {
+	font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+.cshero-shopcarousel-layout1 .cs-carousel-product-list .cshero-product-title h3 {
+	margin: 0;
+}
+.cshero-shopcarousel-layout1 .cs-carousel-product-list .cs-carousel-item-full {
+    border-right: 1px solid #ededed;
+    background: #fff;
+}
+.cshero-shopcarousel-layout1 .cs-carousel-product-list .cs-carousel-item-full div.product {
+	padding: 14px;
+}
+.cshero-shopcarousel-layout1 .cs-carousel-product-list .cs-carousel-item-full:last-child {
+    border: none;
+} 
+.cshero-shopcarousel-layout1 .cshero-carousel-item-wrap .cshero-woo-meta a.btn {
+    font-size: 12px;
+}
+.cshero-shopcarousel-layout1 .cshero-nav {
+	position: absolute;
+    right: 0;
+    top: 0px;
+}
+.cshero-shopcarousel-layout1 .cshero-nav ul li a {
+	background: transparent;
+	width: 20px;
+}
+.cshero-shopcarousel-layout1 .cshero-nav ul li a i {
+	font-size: 24px;
+    color: #bdbdbd;
+}
+.cshero-shopcarousel-layout1 .cshero-nav ul li a:hover i {
+	color: #222;
+}
+.cshero-shopcarousel-layout1 .cshero-nav ul li.prev a i:before {
+	content:"\f3d2";
+	font-family:"Ionicons";
+}
+.cshero-shopcarousel-layout1 .cshero-nav ul li.next a i:before {
+	content:"\f3d3";
+	font-family:"Ionicons";
+}
+.cshero-shopcarousel-layout1 .cshero-carousel-item-wrap .cshero-add-to-cart span,
+.cshero-shopcarousel-layout1 .cshero-carousel-item-wrap .cshero-view-detail span {
+	display: none;
+}

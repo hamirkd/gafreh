@@ -1,0 +1,5013 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP_Spectrum\n"
+"POT-Creation-Date: 2015-09-28 10:26+0700\n"
+"PO-Revision-Date: 2015-09-28 10:27+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/ReduxCore/core/enqueue.php:451
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:687
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:459
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:688
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:467
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:475
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:689
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:482
+msgid "Please Wait"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:493
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: admin/ReduxCore/core/enqueue.php:494
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: admin/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:226
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:226
+#: admin/ReduxCore/inc/welcome/welcome.php:199
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:230 admin/ReduxCore/framework.php:234
+msgid "Options"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1731
+msgid "Enable"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1736
+#: framework/vc_extra/vc_extra_params.php:1946
+msgid "Disable"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1742
+msgid "moving the mouse over"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1744
+msgid "clicking"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1748
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1753
+msgid "Hints"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:1880
+#: framework/vc_extra/vc_extra_params.php:1842 framework/widgets/social.php:322
+msgid "Default"
+msgstr ""
+
+#: admin/ReduxCore/framework.php:2759
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:2768
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: admin/ReduxCore/framework.php:2857
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_filesystem.php:31
+#: admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: admin/ReduxCore/inc/class.redux_filesystem.php:260
+msgid "File Permission Issues"
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: admin/ReduxCore/inc/class.redux_filesystem.php:260
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/class.redux_helpers.php:596
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:722
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:723
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:724
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from File"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:96
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:102
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Export Options"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:114
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid "Copy Data"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Download Data File"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "Copy Export URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: admin/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: admin/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:124
+#: admin/ReduxCore/inc/fields/color/field_color.php:73
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:277
+#: admin/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:314
+#: admin/ReduxCore/inc/fields/media/field_media.php:198
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:126
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/background/field_background.php:321
+#: admin/ReduxCore/inc/fields/media/field_media.php:205
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:133
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:125
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: framework/templates/blog/masonry-filter.php:36
+#: framework/templates/blog/masonry/masonry-filter.php:37
+msgid "All"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:138
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:215
+#: admin/ThemeOptions/function.options.php:1414
+msgid "Top"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:145
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#: framework/widgets/social.php:330
+msgid "Right"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:152
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:229
+#: admin/ThemeOptions/function.options.php:1693
+msgid "Bottom"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:159
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#: framework/widgets/social.php:328
+msgid "Left"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: admin/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/link_color/field_link_color.php:99
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2217
+msgid "Active"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/select/field_select.php:83
+#: admin/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/select/field_select.php:134
+#: admin/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:73
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:145
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:200
+#: framework/widgets/instagram.php:97
+msgid "Title"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:149
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:204
+#: framework/vc_extra/vc_extra_params.php:1572
+#: framework/vc_extra/vc_extra_params.php:1736
+msgid "Description"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:153
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:167
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:258
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:273
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:281
+#: framework/vc_extra/vc_extra_params.php:1580
+#: framework/vc_extra/vc_extra_params.php:1992
+msgid "Style"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:342
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:343
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:344
+#: framework/vc_extra/vc_extra_params.php:1467
+msgid "Text Align"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:365
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:366
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:367
+#: framework/vc_extra/vc_extra_params.php:1716
+msgid "Text Transform"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:388
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:389
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:408
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:409
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:432
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:433
+#: framework/vc_extra/vc_extra_params.php:1850
+msgid "Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:441
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:450
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:459
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:478
+#: framework/vc_extra/vc_extra_params.php:1379
+#: framework/vc_extra/vc_extra_params.php:1444
+msgid "Font Color"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: admin/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:154
+#: admin/ReduxCore/inc/welcome/welcome.php:223
+msgid "Redux Extensions"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: admin/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/color/validation_color.php:15
+#: admin/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: admin/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/email/validation_email.php:16
+#: admin/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: admin/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: admin/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:8
+#: admin/ReduxCore/inc/welcome/views/changelog.php:8
+#: admin/ReduxCore/inc/welcome/views/credits.php:8
+#: admin/ReduxCore/inc/welcome/views/extensions.php:82
+#: admin/ReduxCore/inc/welcome/views/status_report.php:31
+#: admin/ReduxCore/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/changelog.php:5
+#: admin/ReduxCore/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/credits.php:15
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:66
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:71
+msgid "The root URL of your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:76
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:83
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:96
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:108
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:117
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:123
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:132
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:145
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:159
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:164
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:173
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:187
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:208
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:224
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:236
+#: admin/ReduxCore/inc/welcome/views/status_report.php:241
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:246
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:251
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:256
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:268
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:278
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:283
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:290
+msgid "The default timezone for your server."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:350
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:358
+#: admin/ReduxCore/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:366
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:427
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:452
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:460
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:468
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:473
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:478
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:483
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:488
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:493
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:499
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:504
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:509
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:518
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:523
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:582
+#: woocommerce/single-product-reviews.php:59
+msgid "Name"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:583
+msgid "The name of the current active theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:587
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2444
+msgid "Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:588
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:599
+msgid "The theme developers URL."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:604
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:616
+msgid "The name of the parent theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:623
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/status_report.php:630
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:22
+#: admin/ReduxCore/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:177
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:199
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:207
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:215
+msgid "Get Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:232
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:240
+msgid "Redux Framework Status"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:343
+msgid "Extensions"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:346
+msgid "Changelog"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:349
+msgid "Credits"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:352
+msgid "Support"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:355
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2445
+msgid "Status"
+msgstr ""
+
+#: admin/ReduxCore/inc/welcome/welcome.php:512
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:50
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:54
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:24
+msgid "Reset Section"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:55
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset All"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/footer.tpl.php:60
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:28
+msgid "Working..."
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:11
+#: admin/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: admin/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:5
+msgid "Home Settings"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:96
+msgid "Demo Content"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:128
+msgid "Body"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:134
+#: admin/ThemeOptions/function.options.php:416
+#: admin/ThemeOptions/function.options.php:1292
+#: admin/ThemeOptions/function.options.php:1636
+#: admin/ThemeOptions/function.options.php:2321
+msgid "Background"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:135
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:149
+msgid "Spectrum Survey"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:163
+msgid "Logo"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:227
+msgid "Logo Sticky "
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:279
+msgid "Header"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:417
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:499
+msgid "Header Top"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:622
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:707
+msgid "Header Fixed Left or Right"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:747
+msgid "Main Menu"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:809
+msgid "Default Menu"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:954
+msgid "Sticky Menu"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1097
+msgid "Mobile Colors"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1149
+msgid "Hidden Sidebar"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1212
+msgid "Bottom Widget"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1293
+msgid "Bottom background with image, color, etc."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1343
+msgid "Color"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1381
+msgid "Footer"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1637
+msgid "Footer Top background with image, color, etc."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1913
+msgid "Button Options"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:1963
+msgid "Default Button"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2097
+msgid "Primary Button"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2237
+msgid "Page Title Bar"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2322
+msgid "Page Title background with image, color, etc."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2358
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2423
+msgid "Styling Options"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2462
+msgid "Form Styles"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2553
+msgid "Content Area"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2619
+msgid "Font Colors"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2642
+msgid "Typography"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2648
+msgid "Body Font"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2654
+#: admin/ThemeOptions/function.options.php:2674
+#: admin/ThemeOptions/function.options.php:2842
+#: admin/ThemeOptions/function.options.php:2870
+#: admin/ThemeOptions/function.options.php:2888
+#: admin/ThemeOptions/function.options.php:2906
+#: admin/ThemeOptions/function.options.php:2924
+#: admin/ThemeOptions/function.options.php:2942
+#: admin/ThemeOptions/function.options.php:2960
+#: admin/ThemeOptions/function.options.php:2978
+#: admin/ThemeOptions/function.options.php:2996
+#: admin/ThemeOptions/function.options.php:3014
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2669
+msgid "Other Font"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2689
+msgid "Other Font Selector"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2690
+#: admin/ThemeOptions/function.options.php:2858
+#: admin/ThemeOptions/function.options.php:2876
+#: admin/ThemeOptions/function.options.php:2894
+#: admin/ThemeOptions/function.options.php:2912
+#: admin/ThemeOptions/function.options.php:2930
+#: admin/ThemeOptions/function.options.php:2948
+#: admin/ThemeOptions/function.options.php:2966
+#: admin/ThemeOptions/function.options.php:2984
+#: admin/ThemeOptions/function.options.php:3002
+#: admin/ThemeOptions/function.options.php:3020
+#: admin/ThemeOptions/function.options.php:3067
+#: admin/ThemeOptions/function.options.php:3083
+#: admin/ThemeOptions/function.options.php:3099
+msgid "Add tag html ID or class (body,a,.class,#id)"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2697
+msgid "Heading"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2704
+msgid "H1"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2710
+msgid "Typography option with H1."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2725
+msgid "H2"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2731
+msgid "Typography option with H2."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2746
+msgid "H3"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2752
+msgid "Typography option with H3."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2767
+msgid "H4"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2773
+msgid "Typography option with H4."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2788
+msgid "H5"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2794
+msgid "Typography option with H5."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2809
+msgid "H6"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2815
+msgid "Typography option with H6."
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2830
+msgid "Extra"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2837
+msgid "Other Font 1"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2857
+msgid "Other Font Selector 1"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2865
+msgid "Other Font 2"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2875
+msgid "Other Font Selector 2"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2883
+msgid "Other Font 3"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2893
+msgid "Other Font Selector 3"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2901
+msgid "Other Font 4"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2911
+msgid "Other Font Selector 4"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2919
+msgid "Other Font 5"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2929
+msgid "Other Font Selector 5"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2937
+msgid "Other Font 6"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2947
+msgid "Other Font Selector 6"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2955
+msgid "Other Font 7"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2965
+msgid "Other Font Selector 7"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2973
+msgid "Other Font 8"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2983
+msgid "Other Font Selector 8"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:2991
+msgid "Other Font 9"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3001
+msgid "Other Font Selector 9"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3009
+msgid "Other Font 10"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3019
+msgid "Other Font Selector 10"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3051
+msgid "Local Fonts"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3066
+msgid "Local Selector 1"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3082
+msgid "Local Selector 2"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3098
+msgid "Local Selector 3"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3109
+msgid "Blog"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3163
+#: framework/widgets/cart_search.php:109
+msgid "Search"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3213
+msgid "Archive"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3287
+msgid "Post"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3431
+msgid "Page"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3498
+msgid "Detail"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3621
+msgid "Custom Posts"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3628
+msgid "Teams"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3653
+msgid "Portfolio"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3698
+msgid "Woocommerce"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3716
+msgid "Library"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3741
+msgid "404 Page"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3810
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3816
+msgid "CSS Code"
+msgstr ""
+
+#: admin/ThemeOptions/function.options.php:3817
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/ThemeOptions/functions.php:59
+msgid "Theme Information 1"
+msgstr ""
+
+#: admin/ThemeOptions/functions.php:60 admin/ThemeOptions/functions.php:66
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ThemeOptions/functions.php:65
+msgid "Theme Information 2"
+msgstr ""
+
+#: admin/ThemeOptions/functions.php:70
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ThemeOptions/functions.php:85 admin/ThemeOptions/functions.php:93
+#: admin/ThemeOptions/functions.php:94
+msgid "Theme Options"
+msgstr ""
+
+#: admin/sample/wordpress-importer/parsers.php:42
+#: admin/sample/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: admin/sample/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: admin/sample/wordpress-importer/parsers.php:67
+#: admin/sample/wordpress-importer/parsers.php:72
+#: admin/sample/wordpress-importer/parsers.php:262
+#: admin/sample/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:134
+#: admin/sample/wordpress-importer/wordpress-importer.php:185
+#: admin/sample/wordpress-importer/wordpress-importer.php:189
+#: admin/sample/wordpress-importer/wordpress-importer.php:198
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:169
+msgid "All done."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:169
+msgid "Have fun!"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:170
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:190
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:206
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:231
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:257
+msgid "Assign Authors"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:258
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:260
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:270
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:273
+msgid "Download and import file attachments"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:277 comments.php:75
+#: woocommerce/single-product-reviews.php:64
+msgid "Submit"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:290
+msgid "Import author:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:301
+msgid "or create new user with login name:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:304
+msgid "as a new user:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:312
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:314
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:315
+msgid "- Select -"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:365
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:414
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:452
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:496
+#: admin/sample/wordpress-importer/wordpress-importer.php:624
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:518
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:539
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:596
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:760
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:767
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:830
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:843
+msgid "Invalid file type"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:887
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:893
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:900
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:905
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:911
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1023
+msgid "Import WordPress"
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1030
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1045
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1046
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: admin/sample/wordpress-importer/wordpress-importer.php:1121
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: admin/tgm-plugin-activation/plugin-options.php:83
+#: admin/tgm-plugin-activation/require.plugins.php:98
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: admin/tgm-plugin-activation/plugin-options.php:84
+#: admin/tgm-plugin-activation/require.plugins.php:99
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#: admin/tgm-plugin-activation/plugin-options.php:85
+#: admin/tgm-plugin-activation/require.plugins.php:100
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#: admin/tgm-plugin-activation/plugin-options.php:86
+#: admin/tgm-plugin-activation/require.plugins.php:101
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#: admin/tgm-plugin-activation/plugin-options.php:87
+#: admin/tgm-plugin-activation/require.plugins.php:102
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#: admin/tgm-plugin-activation/plugin-options.php:88
+#: admin/tgm-plugin-activation/require.plugins.php:103
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#: admin/tgm-plugin-activation/plugin-options.php:93
+#: admin/tgm-plugin-activation/require.plugins.php:108
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#: admin/tgm-plugin-activation/plugin-options.php:90
+#: admin/tgm-plugin-activation/require.plugins.php:105
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#: admin/tgm-plugin-activation/plugin-options.php:91
+#: admin/tgm-plugin-activation/require.plugins.php:106
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+#: admin/tgm-plugin-activation/plugin-options.php:95
+#: admin/tgm-plugin-activation/require.plugins.php:110
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: admin/tgm-plugin-activation/plugin-options.php:96
+#: admin/tgm-plugin-activation/require.plugins.php:111
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: admin/tgm-plugin-activation/plugin-options.php:97
+#: admin/tgm-plugin-activation/require.plugins.php:112
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3031
+#: admin/tgm-plugin-activation/plugin-options.php:98
+#: admin/tgm-plugin-activation/require.plugins.php:113
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2834
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:830
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3440
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:940
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1118
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2830
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1883
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2169
+msgid "Required"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2172
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2188
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2191
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2194
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2211
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2215
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2223
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2229
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2237
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2282
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2285
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2373
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2381
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2389
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2401
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2424
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2438
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2439
+msgid "Source"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2440
+msgid "Type"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2497
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2502
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2572
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2605
+msgid "Install"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2611
+msgid "Update"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2685
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2790
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2816
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3030
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3371
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3373
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3377
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3380
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:89
+#: admin/tgm-plugin-activation/require.plugins.php:104
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:92
+#: admin/tgm-plugin-activation/require.plugins.php:107
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:94
+#: admin/tgm-plugin-activation/require.plugins.php:109
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/plugin-options.php:99
+#: admin/tgm-plugin-activation/require.plugins.php:114
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: archive.php:35 author.php:36 functions.php:1116
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:38 author.php:39 functions.php:1118
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:41 author.php:42 functions.php:1120
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:41 author.php:42 functions.php:1120
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:44 author.php:45 functions.php:1122
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:44 author.php:45 functions.php:1122
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:47 author.php:48 functions.php:1124
+msgid "Asides"
+msgstr ""
+
+#: archive.php:50 author.php:51 functions.php:1126
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:53 author.php:54 functions.php:1128
+msgid "Images"
+msgstr ""
+
+#: archive.php:56 author.php:57 functions.php:1130
+msgid "Videos"
+msgstr ""
+
+#: archive.php:59 author.php:60 functions.php:1132
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:62 author.php:63 functions.php:1134
+msgid "Links"
+msgstr ""
+
+#: archive.php:65 author.php:66 functions.php:1136
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:68 author.php:69 functions.php:1138
+msgid "Audios"
+msgstr ""
+
+#: archive.php:71 author.php:72 functions.php:1140
+msgid "Chats"
+msgstr ""
+
+#: archive.php:74 author.php:75
+msgid "Archives"
+msgstr ""
+
+#: blog-classic-style1.php:27 framework/templates/blog/masonry-filter.php:33
+#: framework/templates/blog/masonry/masonry-filter.php:34
+msgid "CATEGORY"
+msgstr ""
+
+#: cms_templates/postcarousel/layouts/postcarousel.default.php:57
+#: cms_templates/postcarousel/layouts/postcarousel.layout1.php:69
+#: cms_templates/postcarousel/layouts/postcarousel.layout2.php:71
+#: cms_templates/postcarousel/layouts/postcarousel.layout3.php:57
+#: cms_templates/postcarousel/layouts/postcarousel.layout4.php:57
+msgid "No Comments"
+msgstr ""
+
+#: cms_templates/postcarousel/layouts/postcarousel.layout2.php:58
+msgid " on"
+msgstr ""
+
+#: comments.php:28 framework/widgets/news_tabs.php:51
+msgid "Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "1 Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:33 comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34 comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:72
+msgid "<span>Post a comment</span>"
+msgstr ""
+
+#: comments.php:73 woocommerce/single-product-reviews.php:55
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:74
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:77
+msgid "Write your comment here."
+msgstr ""
+
+#: comments.php:85
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:90
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:95
+msgid "Website"
+msgstr ""
+
+#: framework/headers/header-v3.php:1
+msgid "All Departments "
+msgstr ""
+
+#: framework/includes/post_favorite.php:71
+msgid "Love this"
+msgstr ""
+
+#: framework/includes/post_favorite.php:75
+msgid "You already love this!"
+msgstr ""
+
+#: framework/metabox/page_template.php:26
+#: framework/metabox/page_template.php:45
+msgid "Setting"
+msgstr ""
+
+#: framework/metabox/page_template.php:55
+msgid "Show Post Title"
+msgstr ""
+
+#: framework/metabox/page_template.php:61
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: framework/metabox/page_template.php:70
+msgid "Custom Page Title"
+msgstr ""
+
+#: framework/metabox/page_template.php:80
+msgid "Enable Page Title"
+msgstr ""
+
+#: framework/metabox/page_template.php:90
+msgid "Background Color"
+msgstr ""
+
+#: framework/metabox/page_template.php:96
+msgid "Background Image"
+msgstr ""
+
+#: framework/metabox/page_template.php:102
+#: framework/metabox/page_template.php:139
+#: framework/vc_extra/vc_extra_params.php:595
+msgid "Overlay Color"
+msgstr ""
+
+#: framework/metabox/page_template.php:108
+#: framework/vc_extra/vc_extra_params.php:1523
+#: framework/vc_extra/vc_extra_params.php:1755
+msgid "Title Color"
+msgstr ""
+
+#: framework/metabox/page_template.php:114
+msgid "Subtitle Color"
+msgstr ""
+
+#: framework/metabox/page_template.php:120
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: framework/metabox/page_template.php:151
+msgid "Rows Navigation"
+msgstr ""
+
+#: framework/metabox/page_template.php:161
+msgid "Navigation Top"
+msgstr ""
+
+#: framework/metabox/page_template.php:168
+msgid "Navigation Bottom"
+msgstr ""
+
+#: framework/metabox/page_template.php:183
+msgid "ANGLE"
+msgstr ""
+
+#: framework/metabox/page_template.php:195
+msgid "Enable Angle Page Title"
+msgstr ""
+
+#: framework/metabox/page_template.php:206
+msgid "Angle Page Title Style"
+msgstr ""
+
+#: framework/metabox/page_template.php:212
+msgid "Angle Page Title Height"
+msgstr ""
+
+#: framework/metabox/page_template.php:218
+msgid "Angle Page Title Color"
+msgstr ""
+
+#: framework/metabox/portfolio.php:9
+msgid "Intro Text"
+msgstr ""
+
+#: framework/metabox/portfolio.php:14
+msgid "About Project"
+msgstr ""
+
+#: framework/metabox/portfolio.php:21
+msgid "Testimonial"
+msgstr ""
+
+#: framework/metabox/portfolio.php:27
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: framework/metabox/portfolio.php:33
+msgid "Testimonial Title Font Size"
+msgstr ""
+
+#: framework/metabox/portfolio.php:39
+msgid "Testimonial Description Color"
+msgstr ""
+
+#: framework/metabox/portfolio.php:45
+msgid "Testimonial Description Font Size"
+msgstr ""
+
+#: framework/metabox/portfolio.php:51
+msgid "Testimonial Images Width"
+msgstr ""
+
+#: framework/metabox/portfolio.php:57
+msgid "Testimonial Images Height"
+msgstr ""
+
+#: framework/metabox/portfolio.php:64
+#: framework/templates/portfolio/single.php:105
+msgid "Similar Projects"
+msgstr ""
+
+#: framework/metabox/portfolio.php:76 functions.php:1266
+msgid "GALLERY"
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:12
+#: framework/templates/blog/blogclassic2/blog-none.php:12
+#: framework/templates/blog/masonry/blog-none.php:12
+#: framework/templates/blog/small/blog-none.php:12
+#: framework/templates/single/single-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:18
+#: framework/templates/blog/blogclassic2/blog-none.php:18
+#: framework/templates/blog/masonry/blog-none.php:18
+#: framework/templates/blog/small/blog-none.php:18
+#: framework/templates/single/single-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:22
+#: framework/templates/blog/blogclassic2/blog-none.php:22
+#: framework/templates/blog/masonry/blog-none.php:22
+#: framework/templates/blog/small/blog-none.php:22
+#: framework/templates/single/single-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/templates/blog/blog-none.php:27
+#: framework/templates/blog/blogclassic2/blog-none.php:27
+#: framework/templates/blog/masonry/blog-none.php:27
+#: framework/templates/blog/small/blog-none.php:27
+#: framework/templates/single/single-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/templates/blog/recentpost/blog-audio.php:78
+#: framework/templates/blog/recentpost/blog-gallery.php:90
+#: framework/templates/blog/recentpost/blog-link.php:48
+#: framework/templates/blog/recentpost/blog-none.php:41
+#: framework/templates/blog/recentpost/blog-popular-style-2.php:48
+#: framework/templates/blog/recentpost/blog-popular-style-3.php:48
+#: framework/templates/blog/recentpost/blog-quote.php:52
+#: framework/templates/blog/recentpost/blog-video.php:109
+#: framework/templates/blog/recentpost/blog.php:57
+#: framework/templates/multiple-blog.php:56
+#: framework/templates/multiple-blog.php:96
+#: framework/templates/multiple-blog.php:159
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:81
+msgid "View all posts date "
+msgstr ""
+
+#: framework/templates/multiple-blog.php:113
+#, php-format
+msgid "View all posts in tag %s"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:122
+#: framework/templates/multiple-blog.php:166
+msgid "View all Comments"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:122
+#: framework/templates/multiple-blog.php:166
+msgid "0"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:122
+#: framework/templates/multiple-blog.php:166
+msgid "1"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:122
+#: framework/templates/multiple-blog.php:166
+msgid "%"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:149
+msgid " BY "
+msgstr ""
+
+#: framework/templates/multiple-blog.php:155
+msgid " POSTED IN "
+msgstr ""
+
+#: framework/templates/multiple-blog.php:166
+msgid " WITH "
+msgstr ""
+
+#: framework/templates/multiple-blog.php:166
+msgid " COMMENTS"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:167
+msgid " PERMALINK"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:170
+msgid " POST TYPE"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:199
+#: framework/templates/page/page.php:21
+#: framework/templates/single/single-audio.php:40
+#: framework/templates/single/single-gallery.php:58
+#: framework/templates/single/single-link.php:27
+#: framework/templates/single/single-quote.php:36
+#: framework/templates/single/single-video.php:58
+#: framework/templates/single/single.php:32
+msgid "Pages:"
+msgstr ""
+
+#: framework/templates/multiple-blog.php:212
+msgid "READ MORE"
+msgstr ""
+
+#: framework/templates/page/page.php:27
+msgid "Edit"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:19
+msgid "The Details"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:26
+msgid "Lets Take a Closer Look"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:63
+msgid "The Testimonial"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:77
+msgid "About The Project"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:81
+msgid "Date"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:83
+msgid "Category"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:86
+msgid "Likes"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:89
+msgid "Share"
+msgstr ""
+
+#: framework/templates/portfolio/single.php:129
+msgid "View Project"
+msgstr ""
+
+#: framework/templates/team/single.php:9
+msgid "About Me"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:12
+#: framework/vc_extra/vc_extra_params.php:1386
+msgid "Responsive utilities"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:15
+#: framework/vc_extra/vc_extra_params.php:1389
+msgid "Hidden (Large devices)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:24
+#: framework/vc_extra/vc_extra_params.php:1397
+msgid "Hidden (Medium devices)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:33
+#: framework/vc_extra/vc_extra_params.php:1405
+msgid "Hidden (Small devices)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:42
+#: framework/vc_extra/vc_extra_params.php:1413
+msgid "Hidden (Extra small devices)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:45
+#: framework/vc_extra/vc_extra_params.php:1415
+msgid ""
+"For faster mobile-friendly development, use these utility classes for "
+"showing and hiding content by device via media query."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:49
+msgid "ID Name for Navigation"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:52
+msgid ""
+"If this row wraps the content of one of your sections, set an ID. You can "
+"then use it for navigation. Ex: work"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:56
+msgid "Scroll Offset"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:63
+msgid "SCROLL NEXT STEP"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:66
+#: framework/vc_extra/vc_extra_params.php:76
+#: framework/vc_extra/vc_extra_params.php:82
+#: framework/vc_extra/vc_extra_params.php:90
+#: framework/vc_extra/vc_extra_params.php:101
+msgid "One Page"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:71
+msgid "Enable Row Scroll"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:80
+msgid "ID Name Scroll Top"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:84
+msgid "Please add ID scroll top. Ex: #row1"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:88
+msgid "ID Name Scroll Bottom"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:92
+msgid "Please add ID scroll bottom. Ex: #row2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:97
+msgid "Arrow color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:100
+msgid "Select color for arrow."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:105
+msgid "Row style"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:120
+msgid "Background Color Left"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:136
+msgid "Background Color Right"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:162
+msgid "Heading color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:165
+msgid "Select color for head."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:170
+msgid "Link color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:173
+msgid "Select color for link."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:178
+msgid "Link color hover"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:181
+msgid "Select color for link hover."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:187
+msgid "Same height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:192
+msgid "Set the same hight for all column in this row."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:198
+#: framework/vc_extra/vc_extra_params.php:1428
+#: framework/vc_extra/vc_extra_params.php:1451
+msgid "Animation"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:215
+msgid "Enable Angle"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:232
+msgid "Angle Position"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:254
+msgid "Angle Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:269
+msgid "Angle Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:285
+msgid "Angle Border Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:302
+msgid "Angle Border Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:317
+msgid "Enable Angle Duplicated"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:334
+msgid "Angle Position Duplicated"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:356
+msgid "Angle Duplicated Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:371
+msgid "Angle Duplicated Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:388
+msgid "Angle Duplicated Border Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:405
+msgid "Angle Duplicated Border Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:420
+msgid "Enable Angle Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:437
+msgid "Angle Position Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:459
+msgid "Angle Height Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:474
+msgid "Angle Color Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:491
+msgid "Enable Duplicated Angle Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:508
+msgid "Angle Duplicated Position Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:530
+msgid "Angle Duplicated Height Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:545
+msgid "Angle Duplicated Color Style 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:563
+msgid "Enable parallax"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:580
+msgid "Background ratio"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:609
+msgid "Overlay Opacity"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:623
+msgid "Disable parallax mobile"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:640
+msgid "Video poster"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:652
+msgid "Loop"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:655
+#: framework/vc_extra/vc_extra_params.php:669
+#: framework/vc_extra/vc_extra_params.php:683
+#: framework/vc_extra/vc_extra_params.php:697
+#: framework/vc_extra/vc_extra_params.php:711
+msgid "Yes, please"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:666
+msgid "Autoplay"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:680
+msgid "Muted"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:694
+msgid "Controls"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:708
+msgid "Show Button Play"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:722
+msgid "Video background (mp4)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:735
+msgid "Video background (ogv)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:748
+msgid "Video background (webm)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:760
+msgid "OPTION LAYER 1"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:763
+#: framework/vc_extra/vc_extra_params.php:771
+#: framework/vc_extra/vc_extra_params.php:777
+#: framework/vc_extra/vc_extra_params.php:784
+#: framework/vc_extra/vc_extra_params.php:804
+#: framework/vc_extra/vc_extra_params.php:811
+#: framework/vc_extra/vc_extra_params.php:818
+#: framework/vc_extra/vc_extra_params.php:824
+#: framework/vc_extra/vc_extra_params.php:831
+#: framework/vc_extra/vc_extra_params.php:840
+#: framework/vc_extra/vc_extra_params.php:848
+#: framework/vc_extra/vc_extra_params.php:854
+#: framework/vc_extra/vc_extra_params.php:861
+#: framework/vc_extra/vc_extra_params.php:881
+#: framework/vc_extra/vc_extra_params.php:888
+#: framework/vc_extra/vc_extra_params.php:895
+#: framework/vc_extra/vc_extra_params.php:901
+#: framework/vc_extra/vc_extra_params.php:908
+#: framework/vc_extra/vc_extra_params.php:917
+#: framework/vc_extra/vc_extra_params.php:925
+#: framework/vc_extra/vc_extra_params.php:931
+#: framework/vc_extra/vc_extra_params.php:938
+#: framework/vc_extra/vc_extra_params.php:958
+#: framework/vc_extra/vc_extra_params.php:965
+#: framework/vc_extra/vc_extra_params.php:972
+#: framework/vc_extra/vc_extra_params.php:978
+#: framework/vc_extra/vc_extra_params.php:985
+#: framework/vc_extra/vc_extra_params.php:994
+#: framework/vc_extra/vc_extra_params.php:1002
+#: framework/vc_extra/vc_extra_params.php:1008
+#: framework/vc_extra/vc_extra_params.php:1015
+#: framework/vc_extra/vc_extra_params.php:1035
+#: framework/vc_extra/vc_extra_params.php:1042
+#: framework/vc_extra/vc_extra_params.php:1049
+#: framework/vc_extra/vc_extra_params.php:1055
+#: framework/vc_extra/vc_extra_params.php:1062
+#: framework/vc_extra/vc_extra_params.php:1071
+#: framework/vc_extra/vc_extra_params.php:1079
+#: framework/vc_extra/vc_extra_params.php:1085
+#: framework/vc_extra/vc_extra_params.php:1092
+#: framework/vc_extra/vc_extra_params.php:1112
+#: framework/vc_extra/vc_extra_params.php:1119
+#: framework/vc_extra/vc_extra_params.php:1126
+#: framework/vc_extra/vc_extra_params.php:1132
+#: framework/vc_extra/vc_extra_params.php:1139
+#: framework/vc_extra/vc_extra_params.php:1148
+#: framework/vc_extra/vc_extra_params.php:1156
+#: framework/vc_extra/vc_extra_params.php:1162
+#: framework/vc_extra/vc_extra_params.php:1169
+#: framework/vc_extra/vc_extra_params.php:1189
+#: framework/vc_extra/vc_extra_params.php:1196
+#: framework/vc_extra/vc_extra_params.php:1203
+#: framework/vc_extra/vc_extra_params.php:1209
+#: framework/vc_extra/vc_extra_params.php:1216
+#: framework/vc_extra/vc_extra_params.php:1225
+#: framework/vc_extra/vc_extra_params.php:1233
+#: framework/vc_extra/vc_extra_params.php:1239
+#: framework/vc_extra/vc_extra_params.php:1246
+#: framework/vc_extra/vc_extra_params.php:1266
+#: framework/vc_extra/vc_extra_params.php:1273
+#: framework/vc_extra/vc_extra_params.php:1280
+#: framework/vc_extra/vc_extra_params.php:1286
+#: framework/vc_extra/vc_extra_params.php:1293
+#: framework/vc_extra/vc_extra_params.php:1302
+#: framework/vc_extra/vc_extra_params.php:1310
+#: framework/vc_extra/vc_extra_params.php:1316
+#: framework/vc_extra/vc_extra_params.php:1323
+#: framework/vc_extra/vc_extra_params.php:1343
+#: framework/vc_extra/vc_extra_params.php:1350
+#: framework/vc_extra/vc_extra_params.php:1357
+#: framework/vc_extra/vc_extra_params.php:1363
+#: framework/vc_extra/vc_extra_params.php:1370
+msgid "Lax"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:768
+msgid "Lax Layer 1"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:775
+msgid "Lax Layer 1 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:778
+#: framework/vc_extra/vc_extra_params.php:785
+#: framework/vc_extra/vc_extra_params.php:855
+#: framework/vc_extra/vc_extra_params.php:862
+#: framework/vc_extra/vc_extra_params.php:932
+#: framework/vc_extra/vc_extra_params.php:939
+#: framework/vc_extra/vc_extra_params.php:1009
+#: framework/vc_extra/vc_extra_params.php:1016
+#: framework/vc_extra/vc_extra_params.php:1086
+#: framework/vc_extra/vc_extra_params.php:1093
+#: framework/vc_extra/vc_extra_params.php:1163
+#: framework/vc_extra/vc_extra_params.php:1170
+#: framework/vc_extra/vc_extra_params.php:1240
+#: framework/vc_extra/vc_extra_params.php:1247
+#: framework/vc_extra/vc_extra_params.php:1317
+#: framework/vc_extra/vc_extra_params.php:1324
+msgid "px,em,..."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:782
+msgid "Lax Layer 1 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:790
+msgid "Lax Layer 1 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:808
+msgid "Lax Layer 1 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:815
+msgid "Lax Layer 1 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:822
+msgid "Layer 1 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:825
+#: framework/vc_extra/vc_extra_params.php:902
+#: framework/vc_extra/vc_extra_params.php:979
+#: framework/vc_extra/vc_extra_params.php:1056
+#: framework/vc_extra/vc_extra_params.php:1133
+#: framework/vc_extra/vc_extra_params.php:1210
+#: framework/vc_extra/vc_extra_params.php:1287
+#: framework/vc_extra/vc_extra_params.php:1364
+msgid "Time move default 5s"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:829
+msgid "Layer 1 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:832
+#: framework/vc_extra/vc_extra_params.php:909
+#: framework/vc_extra/vc_extra_params.php:986
+#: framework/vc_extra/vc_extra_params.php:1063
+#: framework/vc_extra/vc_extra_params.php:1140
+#: framework/vc_extra/vc_extra_params.php:1217
+#: framework/vc_extra/vc_extra_params.php:1294
+#: framework/vc_extra/vc_extra_params.php:1371
+msgid "Default 40 lax move -40 to 40 px"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:837
+msgid "OPTION LAYER 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:845
+msgid "Lax Layer 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:852
+msgid "Lax Layer 2 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:859
+msgid "Lax Layer 2 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:867
+msgid "Lax Layer 2 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:885
+msgid "Lax Layer 2 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:892
+msgid "Lax Layer 2 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:899
+msgid "Layer 2 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:906
+msgid "Layer 2 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:914
+msgid "OPTION LAYER 3"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:922
+msgid "Lax Layer 3"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:929
+msgid "Lax Layer 3 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:936
+msgid "Lax Layer 3 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:944
+msgid "Lax Layer 3 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:962
+msgid "Lax Layer 3 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:969
+msgid "Lax Layer 3 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:976
+msgid "Layer 3 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:983
+msgid "Layer 3 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:991
+msgid "OPTION LAYER 4"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:999
+msgid "Lax Layer 4"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1006
+msgid "Lax Layer 4 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1013
+msgid "Lax Layer 4 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1021
+msgid "Lax Layer 4 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1039
+msgid "Lax Layer 4 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1046
+msgid "Lax Layer 4 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1053
+msgid "Layer 4 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1060
+msgid "Layer 4 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1068
+msgid "OPTION LAYER 5"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1076
+msgid "Lax Layer 5"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1083
+msgid "Lax Layer 5 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1090
+msgid "Lax Layer 5 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1098
+msgid "Lax Layer 5 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1116
+msgid "Lax Layer 5 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1123
+msgid "Lax Layer 5 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1130
+msgid "Layer 5 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1137
+msgid "Layer 5 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1145
+msgid "OPTION LAYER 6"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1153
+msgid "Lax Layer 6"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1160
+msgid "Lax Layer 6 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1167
+msgid "Lax Layer 6 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1175
+msgid "Lax Layer 6 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1193
+msgid "Lax Layer 6 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1200
+msgid "Lax Layer 6 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1207
+msgid "Layer 6 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1214
+msgid "Layer 6 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1222
+msgid "OPTION LAYER 7"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1230
+msgid "Lax Layer 7"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1237
+msgid "Lax Layer 7 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1244
+msgid "Lax Layer 7 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1252
+msgid "Lax Layer 7 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1270
+msgid "Lax Layer 7 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1277
+msgid "Lax Layer 7 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1284
+msgid "Layer 7 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1291
+msgid "Layer 7 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1299
+msgid "OPTION LAYER 8"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1307
+msgid "Lax Layer 8"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1314
+msgid "Lax Layer 8 Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1321
+msgid "Lax Layer 8 Height"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1329
+msgid "Lax Layer 8 Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1347
+msgid "Lax Layer 8 Position X"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1354
+msgid "Lax Layer 8 Position Y"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1361
+msgid "Layer 8 Speed"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1368
+msgid "Layer 8 Move"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1422
+#: framework/widgets/cart_search.php:143 framework/widgets/cart_search.php:150
+#: framework/widgets/tweets.php:208
+msgid "Yes"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1485
+msgid "Column Heading Style"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1499
+msgid "Add some styles to column"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1507
+#: framework/vc_extra/vc_extra_params.php:1701
+msgid "Heading size"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1529
+msgid "Pie icon"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1537
+msgid "Icon Size"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1539
+msgid "Font size of icon"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1545
+msgid "Icon Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1554
+msgid "Bar color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1557
+msgid "Select pie chart color."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1564
+msgid "Bar Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1586
+msgid "Select style for pie."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1591
+#: framework/vc_extra/vc_extra_params.php:1747
+#: framework/vc_extra/vc_extra_params.php:1890
+#: framework/vc_extra/vc_extra_params.php:2043
+msgid "Icon"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1594
+#: framework/vc_extra/vc_extra_params.php:1750
+msgid ""
+"You can find icon class at here: <a target=\"_blank\" href=\"http://"
+"fontawesome.io/icons/\">\"http://fontawesome.io/icons/</a>. For example, fa "
+"fa-heart"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1606
+#: framework/vc_extra/vc_extra_params.php:1686
+#: framework/vc_extra/vc_extra_params.php:1694
+#: framework/vc_extra/vc_extra_params.php:1728
+msgid "Style Border Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1614
+msgid "Separator align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1626
+msgid "Show Arrow"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1637
+msgid "Arrow Type"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1648
+msgid "Arrow Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1656
+msgid "Arrow Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1664
+msgid "Arrow Image"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1673
+msgid "Custom Sparator Width"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1762
+msgid "Background Tab"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1769
+msgid "Background Content"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1776
+msgid "Title Active Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1783
+msgid "Background Tab Active"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1790
+msgid "Item Margin Bottom"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1793
+msgid "margin bottom each accordion tab. Ex: 10px"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1798
+msgid "Item Border"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1801
+msgid "Border of each accordion tab. Ex: 1px solid #444"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1806
+msgid "Title Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1825
+msgid "Button Type"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1843
+#: framework/vc_extra/vc_extra_params.php:2030
+#: framework/widgets/instagram.php:105
+msgid "Large"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1844
+msgid "Medium"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1845
+#: framework/vc_extra/vc_extra_params.php:2031
+msgid "Small"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1846
+#: framework/vc_extra/vc_extra_params.php:2032
+msgid "Mini"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1853
+#: framework/vc_extra/vc_extra_params.php:2120
+msgid "Button size."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1858
+msgid "Button Align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1870
+msgid "Button Block"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1875
+msgid "Yes, please."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1880
+msgid "Button icon"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1883
+msgid "Please get icon Font Awesome. Ex: fa-home"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1903
+msgid "Contact Style"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1927
+msgid "Tabs"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1932
+#: framework/vc_extra/vc_extra_params.php:2038
+msgid "Content"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1933
+msgid "Tabbed content"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1937
+msgid "Widget title"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1939
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1943
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1953
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1957
+msgid "Title Font Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1964
+msgid "Title Font Color Hover"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1971
+msgid "Tab Border Color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1978
+msgid "Tab Border Color Active"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1985
+#: framework/vc_extra/vc_extra_params.php:2134
+msgid "Extra class name"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:1987
+#: framework/vc_extra/vc_extra_params.php:2136
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2011
+msgid "Tab 1"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2012
+msgid "Tab 2"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2020
+msgid "Same window"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2021
+msgid "New window"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2024
+msgid "Button Default"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2025
+msgid "Button Primary"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2026
+msgid "Button White"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2029
+msgid "Regular size"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2035
+msgid "Call to Action Button"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2039
+msgid "Catch visitors attention with CTA block"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2046
+msgid "Font Awesome."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2050
+msgid "Icon size"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2053
+msgid "Icon on font size px."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2057
+msgid "Icon color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2060
+msgid "Icon on color."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2065
+msgid "Text"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2067
+msgid "Click edit button to change this text."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2068
+msgid "Enter your content."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2072
+msgid "Text on the font size"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2075
+msgid "Text on font size px."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2079
+msgid "Text on the color"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2082
+msgid "Text on color."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2086
+#: framework/vc_extra/vc_extra_params.php:2088 vc_templates/vc_button.php:14
+#: vc_templates/vc_cta_button.php:8
+msgid "Text on the button"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2089
+msgid "Text on the button."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2093
+msgid "URL (Link)"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2095
+msgid "Button link."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2099
+msgid "Target"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2109
+msgid "Button Type "
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2112
+msgid "Button Type."
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2117
+msgid "Button size"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2124
+msgid "Button align"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2127
+msgid "Align right"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2128
+msgid "Align left"
+msgstr ""
+
+#: framework/vc_extra/vc_extra_params.php:2130
+msgid "Select button alignment."
+msgstr ""
+
+#: framework/widgets/cart_search.php:16
+msgid "Cart & Search"
+msgstr ""
+
+#: framework/widgets/cart_search.php:17
+msgid "Display the user's Cart and Search form in the sidebar."
+msgstr ""
+
+#: framework/widgets/cart_search.php:48
+msgid " Item in cart "
+msgstr ""
+
+#: framework/widgets/cart_search.php:51
+msgid " My Trolly "
+msgstr ""
+
+#: framework/widgets/cart_search.php:56
+msgid " Your Basket is Empty "
+msgstr ""
+
+#: framework/widgets/cart_search.php:99
+msgid "No products in the cart."
+msgstr ""
+
+#: framework/widgets/cart_search.php:136
+#: framework/widgets/recent_post_v1.php:120
+#: framework/widgets/recent_post_v2.php:108 framework/widgets/social.php:317
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/cart_search.php:140
+msgid "Show Cart:"
+msgstr ""
+
+#: framework/widgets/cart_search.php:142 framework/widgets/cart_search.php:149
+#: framework/widgets/tweets.php:207
+msgid "No"
+msgstr ""
+
+#: framework/widgets/cart_search.php:147
+msgid "Show Search:"
+msgstr ""
+
+#: framework/widgets/facebook.php:7
+msgid "Facebook Box"
+msgstr ""
+
+#: framework/widgets/facebook.php:8
+msgid "Facebook Box Widget"
+msgstr ""
+
+#: framework/widgets/facebook.php:15 framework/widgets/social.php:7
+#: framework/widgets/social.php:17
+msgid "Social"
+msgstr ""
+
+#: framework/widgets/instagram.php:7
+msgid "CS Instagram"
+msgstr ""
+
+#: framework/widgets/instagram.php:8
+msgid "CS Instagram Widget"
+msgstr ""
+
+#: framework/widgets/instagram.php:86
+msgid "Instagram"
+msgstr ""
+
+#: framework/widgets/instagram.php:86
+msgid "Follow Us"
+msgstr ""
+
+#: framework/widgets/instagram.php:98
+msgid "User ID"
+msgstr ""
+
+#: framework/widgets/instagram.php:99
+msgid "Client ID"
+msgstr ""
+
+#: framework/widgets/instagram.php:100
+msgid "Number of photos"
+msgstr ""
+
+#: framework/widgets/instagram.php:101
+msgid "Columns"
+msgstr ""
+
+#: framework/widgets/instagram.php:102
+msgid "Photo size"
+msgstr ""
+
+#: framework/widgets/instagram.php:104
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/widgets/instagram.php:108
+msgid "Open links in"
+msgstr ""
+
+#: framework/widgets/instagram.php:110
+msgid "Current window (_self)"
+msgstr ""
+
+#: framework/widgets/instagram.php:111
+msgid "New window (_blank)"
+msgstr ""
+
+#: framework/widgets/instagram.php:114
+msgid "Link text"
+msgstr ""
+
+#: framework/widgets/instagram.php:127
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: framework/widgets/instagram.php:130
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: framework/widgets/instagram.php:134
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: framework/widgets/news_tabs.php:12
+msgid "CS News Tab Widget"
+msgstr ""
+
+#: framework/widgets/news_tabs.php:12
+msgid "Popular post, recent post and comments."
+msgstr ""
+
+#: framework/widgets/news_tabs.php:45
+msgid "Popular"
+msgstr ""
+
+#: framework/widgets/news_tabs.php:48
+msgid "Recent"
+msgstr ""
+
+#: framework/widgets/news_tabs.php:82 framework/widgets/news_tabs.php:118
+msgid "Read More..."
+msgstr ""
+
+#: framework/widgets/recent_post_v1.php:11
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: framework/widgets/recent_post_v1.php:12
+msgid "CS Recent Posts V1"
+msgstr ""
+
+#: framework/widgets/recent_post_v1.php:42
+#: framework/widgets/recent_post_v2.php:19
+msgid "Recent Posts"
+msgstr ""
+
+#: framework/widgets/recent_post_v1.php:123
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widgets/recent_post_v1.php:127
+msgid "Display post date?"
+msgstr ""
+
+#: framework/widgets/recent_post_v2.php:12
+msgid "CS Recent Posts V2"
+msgstr ""
+
+#: framework/widgets/recent_post_v2.php:12
+msgid "Recent Posts Widget."
+msgstr ""
+
+#: framework/widgets/recent_post_v2.php:112
+msgid "Show date:"
+msgstr ""
+
+#: framework/widgets/recent_post_v2.php:116
+msgid "Show Description:"
+msgstr ""
+
+#: framework/widgets/recent_post_v2.php:120
+msgid "Number of products to show:"
+msgstr ""
+
+#: framework/widgets/social.php:8
+msgid "Social Widget"
+msgstr ""
+
+#: framework/widgets/social.php:320
+msgid "Style:"
+msgstr ""
+
+#: framework/widgets/social.php:326
+msgid "Content Align:"
+msgstr ""
+
+#: framework/widgets/social.php:329
+msgid "Center"
+msgstr ""
+
+#: framework/widgets/social.php:334
+msgid "Icon Facebook:"
+msgstr ""
+
+#: framework/widgets/social.php:336
+msgid "Link Facebook:"
+msgstr ""
+
+#: framework/widgets/social.php:339
+msgid "Icon rss:"
+msgstr ""
+
+#: framework/widgets/social.php:341
+msgid "Link rss:"
+msgstr ""
+
+#: framework/widgets/social.php:344
+msgid "Icon youtube:"
+msgstr ""
+
+#: framework/widgets/social.php:346
+msgid "Link youtube:"
+msgstr ""
+
+#: framework/widgets/social.php:349
+msgid "Icon twitter:"
+msgstr ""
+
+#: framework/widgets/social.php:351
+msgid "Link twitter:"
+msgstr ""
+
+#: framework/widgets/social.php:354
+msgid "Icon google:"
+msgstr ""
+
+#: framework/widgets/social.php:356
+msgid "Link google:"
+msgstr ""
+
+#: framework/widgets/social.php:359
+msgid "Icon skype:"
+msgstr ""
+
+#: framework/widgets/social.php:361
+msgid "Link skype:"
+msgstr ""
+
+#: framework/widgets/social.php:364
+msgid "Icon yahoo:"
+msgstr ""
+
+#: framework/widgets/social.php:366
+msgid "Link yahoo:"
+msgstr ""
+
+#: framework/widgets/social.php:369
+msgid "Icon dribbble:"
+msgstr ""
+
+#: framework/widgets/social.php:371
+msgid "Link dribbble:"
+msgstr ""
+
+#: framework/widgets/social.php:374
+msgid "Icon flickr:"
+msgstr ""
+
+#: framework/widgets/social.php:376
+msgid "Link flickr:"
+msgstr ""
+
+#: framework/widgets/social.php:379
+msgid "Icon linkedin:"
+msgstr ""
+
+#: framework/widgets/social.php:381
+msgid "Link linkedin:"
+msgstr ""
+
+#: framework/widgets/social.php:384
+msgid "Icon vimeo:"
+msgstr ""
+
+#: framework/widgets/social.php:386
+msgid "Link vimeo:"
+msgstr ""
+
+#: framework/widgets/social.php:389
+msgid "Icon pinterest:"
+msgstr ""
+
+#: framework/widgets/social.php:391
+msgid "Link pinterest:"
+msgstr ""
+
+#: framework/widgets/social.php:394
+msgid "Icon github:"
+msgstr ""
+
+#: framework/widgets/social.php:396
+msgid "Link github:"
+msgstr ""
+
+#: framework/widgets/social.php:399
+msgid "Icon instagram:"
+msgstr ""
+
+#: framework/widgets/social.php:401
+msgid "Link instagram:"
+msgstr ""
+
+#: framework/widgets/tweets.php:17
+msgid "CS Twitter"
+msgstr ""
+
+#: framework/widgets/woo_search.php:14
+msgid "Woo Search"
+msgstr ""
+
+#: framework/widgets/woo_search.php:15
+msgid "Search Product"
+msgstr ""
+
+#: functions.php:73
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:74
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:75
+msgid "Left Navigation"
+msgstr ""
+
+#: functions.php:76
+msgid "Right Navigation"
+msgstr ""
+
+#: functions.php:77
+msgid "404 Useful Pages"
+msgstr ""
+
+#: functions.php:78
+msgid "Sticky Header Navigation"
+msgstr ""
+
+#: functions.php:359
+msgid "Check out this article"
+msgstr ""
+
+#: functions.php:808
+msgid " / Page"
+msgstr ""
+
+#: functions.php:1104 search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:1106 functions.php:1308
+msgid "404"
+msgstr ""
+
+#: functions.php:1262 functions.php:1290
+msgid "STANDARD"
+msgstr ""
+
+#: functions.php:1270
+msgid "LINK"
+msgstr ""
+
+#: functions.php:1274
+msgid "QUOTE"
+msgstr ""
+
+#: functions.php:1278
+msgid "VIDEO"
+msgstr ""
+
+#: functions.php:1282
+msgid "AUDIO"
+msgstr ""
+
+#: functions.php:1287
+msgid "STICKY"
+msgstr ""
+
+#: functions.php:1309
+msgid "Page not found."
+msgstr ""
+
+#: functions.php:1311
+msgid "Ooops! This is embarrasing!"
+msgstr ""
+
+#: functions.php:1312
+msgid "It seems the page you are looking for has been misplaced."
+msgstr ""
+
+#: functions.php:1313
+msgid "Please "
+msgstr ""
+
+#: functions.php:1314
+msgid "click here"
+msgstr ""
+
+#: functions.php:1315
+msgid " to get back home"
+msgstr ""
+
+#: functions.php:1453
+msgid "New Text"
+msgstr ""
+
+#: functions.php:1459
+msgid "Bestseller Text"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "&larr; Previous"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "NEXT POST"
+msgstr ""
+
+#: inc/template-tags.php:103
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:108
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:45
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:73 vc_templates/vc_tabs.php:117
+#: vc_templates/vc_tabs.php:151 vc_templates/vc_tabs.php:195
+msgid "Previous slide"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:73 vc_templates/vc_tabs.php:117
+#: vc_templates/vc_tabs.php:151 vc_templates/vc_tabs.php:195
+msgid "Next slide"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:83
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:86
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:95
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:30
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:32
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:53
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/content-product.php:38 woocommerce/loop/sale-flash.php:18
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:17
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:41
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:31
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:34
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:48
+msgid "Related Items"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WP_Spectrum"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://cmssuperheroes.com/wordpress/cshero"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"In 2015, Creating a magazine website with WordPress has never been easier."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Cmssuperheroes Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cmssuperheroes.com/"
+msgstr ""

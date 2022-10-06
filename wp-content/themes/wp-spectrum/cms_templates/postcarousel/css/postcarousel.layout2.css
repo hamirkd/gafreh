@@ -1,0 +1,76 @@
+.postcarousel-layout2  .bx-wrapper {
+	padding-bottom: 58px;
+}
+.postcarousel-layout2  .cshero-post-carousel-item-wrap:nth-child(2n) {
+	padding-top: 58px;
+}
+
+.postcarousel-layout2 .cshero-carousel-image {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.postcarousel-layout2 .cshero-carousel-image:after {
+	border-left: 20px solid transparent;
+    border-bottom: 20px solid #fff;
+    border-right: 20px solid transparent;
+    content: "";
+    height: 0;
+    width: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -o-transform: translate(-50%);
+    transform: translate(-50%);
+    z-index: 10;
+}
+
+.postcarousel-layout2 .cshero-carousel-container {
+	border: #e9e9e9 1px solid;
+} 
+
+.postcarousel-layout2 .cshero-carousel-effect .cshero-carousel-body {
+	padding: 0px 30px 40px;
+}
+
+.postcarousel-layout2 .cshero-carousel-title {
+	line-height: 1.2;
+	margin-top: 45px;
+	margin-bottom: 5px;
+}
+
+.postcarousel-layout2 .author-date-wrap {
+	padding: 0;
+	margin: 0 0 15px;
+	list-style: none;
+	width: 100%;
+	overflow: hidden;
+	clear: both;
+}
+
+.postcarousel-layout2 .author-date-wrap li {
+	float: left;
+	display: block;
+	padding-right: 5px;
+}
+
+.postcarousel-layout2 .cshero-carousel-post-description {
+	margin-bottom: 10px;
+}
+
+.postcarousel-layout2 .cshero-carousel-post-read-more {
+	font-size: 20px;
+}
+
+.postcarousel-layout2 .cshero-carousel-post-read-more a {
+	color: #888;
+}
+
+
+
+
+

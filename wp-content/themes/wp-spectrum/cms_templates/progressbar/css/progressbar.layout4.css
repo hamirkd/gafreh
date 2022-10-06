@@ -1,0 +1,88 @@
+/* ==========================================================================
+    Base style
+========================================================================== */
+.progressbar-layout4 {
+    margin-bottom: 20px;
+    clear: both;
+}
+.progressbar-layout4 .cshero-progress-title .title {
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 25px 0 15px 0;
+}
+.progressbar-layout4 .cshero-progress-title span.title {
+    display: block;
+}
+.progressbar-layout4 .progress {
+    background-color: #e9e9e9;
+    margin: auto;
+    position: relative;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+.progressbar-layout4 .progress-bar,
+.progress.vertical.layout2 .progress-bar {
+    text-align: right;
+    padding: 0 10px;
+    font-size: 14px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+.progressbar-layout4 .cshero-progress-title.vertical span {
+    display: block;
+}
+.progressbar-layout4 .progress.vertical {
+    float: none;
+}
+.progressbar-layout4 .progress.vertical .progress-bar {
+    text-align: center;
+    padding: 5px 0px;
+}
+/* ==========================================================================
+    End Base style
+========================================================================== */
+.progressbar-layout4 .progress,
+.progressbar-layout4 .progress .progress-bar {
+    overflow: hidden;
+}
+.progressbar-layout4 .cshero-progress-position {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    -webkit-transform: translate(0px, -50%);
+       -moz-transform: translate(0px, -50%);
+        -ms-transform: translate(0px, -50%);
+         -o-transform: translate(0px, -50%);
+            transform: translate(0px, -50%);
+}
+.progressbar-layout4 .cshero-progress-value {
+    font-size: 41px;
+    color: #222;
+    font-weight: 700;
+}
+.progressbar-layout4 .progress.vertical {
+    line-height: normal !important;
+}   
+.progressbar-layout4 .cshero-progress-item {
+    text-align: center;
+}
+.progressbar-layout4 .progress-bar {
+    width: 120% !important;
+    -webkit-transform: rotate(-20deg);
+       -moz-transform: rotate(-20deg);
+        -ms-transform: rotate(-20deg);
+         -o-transform: rotate(-20deg);
+            transform: rotate(-20deg);
+}

@@ -1,0 +1,80 @@
+.csbody.header-v4.home #primary > .container {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.csbody.header-v4 .header-left .main-menu.wrap {
+	
+}
+.csbody.header-v4 .header-left .main-menu-left > ul {
+	margin: 0 0px 40px;
+}
+
+.csbody.header-v4 .header-left .main-menu-left > ul > li {
+	padding: 0 30px;
+}
+
+.csbody.header-v4 .header-left .main-menu-left > ul > li:first-child {
+	padding-top: 30px;
+}
+
+.csbody.header-v4 .header-left .main-menu-left > ul > li:last-child {
+	padding-bottom: 30px;
+}
+
+.csbody.header-v4 .header-left .main-menu-left > ul > li:first-child > a,
+.csbody.header-v4 .header-left .main-menu-left > ul > li:last-child > a {
+	position: relative;
+}
+
+.csbody.header-v4 .header-left .main-menu-left > ul > li:last-child > a:before,
+.csbody.header-v4 .header-left .main-menu-left > ul > li:first-child > a:before {
+	border-top: 1px solid #e9e9de;
+	position: absolute;
+	content: '';
+	display: block;
+	width: 100%;
+	left: 0;
+	top: -25px;
+}
+
+.csbody.header-v4 .header-left .main-menu-left > ul > li:last-child > a:before {
+	top: auto;
+	bottom: -25px;
+}
+
+.csbody.header-v4 .cshero-header-fixed-content-widget-inner {
+	text-align: center;
+	color: #fff;
+}
+.csbody.header-v4 .widget_cs_social_widget ul {
+	display: block;
+	text-align: center;
+}
+.csbody.header-v4 .widget_cs_social_widget ul li {
+	display: inline-block;
+	text-align: center;
+}
+.csbody.header-v4 .widget_cs_social_widget ul li a {
+	font-size: 22px;
+}
+.csbody.header-v4 #cshero-header .header-left-inner .cshero-header-fixed-content-widget a:hover i {
+	color: #797942;
+}
+
+.csbody.header-v4 #cshero-header .header-left ul.cshero-dropdown ul > li:first-child > a {
+	border: none;
+}
+
+.csbody.header-v4 #cshero-header ul ul > li {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.csbody.header-v4 #cshero-header ul ul > li > a {
+	text-transform: uppercase;
+}
+
+/*body.header-v4 .cshero-header-fixed-content-widget {
+	position: fixed;
+	bottom: 0;
+}*/

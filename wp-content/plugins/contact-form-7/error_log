@@ -1,0 +1,2 @@
+[29-May-2017 15:59:14 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/soltechburkina/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[02-Jul-2017 13:56:28 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/soltechburkina/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

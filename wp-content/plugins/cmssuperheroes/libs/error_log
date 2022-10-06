@@ -1,0 +1,2 @@
+[20-May-2017 10:59:37 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/libs/mr-image-resize.php on line 23
+[07-Jul-2017 16:20:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/libs/mr-image-resize.php on line 23

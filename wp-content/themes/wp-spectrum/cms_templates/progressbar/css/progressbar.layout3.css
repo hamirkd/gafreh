@@ -1,0 +1,78 @@
+/* ==========================================================================
+    Base style
+========================================================================== */
+.progressbar-layout3 {
+    margin-bottom: 20px;
+    clear: both;
+}
+.progressbar-layout3 .cshero-progress-title .title {
+    line-height: 19px;
+    text-transform: uppercase;
+    margin: 3px 0 0;
+    padding: 0 15px;
+}
+.progressbar-layout3 .cshero-progress-title span.title {
+    display: block;
+}
+.progressbar-layout3 .progress {
+    background-color: #e9e9e9;
+    margin: auto;
+    position: relative;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+.progressbar-layout3 .progress-bar,
+.progress.vertical.layout2 .progress-bar {
+    text-align: right;
+    padding: 0 10px;
+    font-size: 14px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+.progressbar-layout3 .cshero-progress-title.vertical span {
+    display: block;
+}
+.progressbar-layout3 .progress.vertical {
+    float: none;
+}
+.progressbar-layout3 .progress.vertical .progress-bar {
+    text-align: center;
+    padding: 5px 0px;
+}
+/* ==========================================================================
+    End Base style
+========================================================================== */
+.progressbar-layout3 .progress,
+.progressbar-layout3 .progress .progress-bar {
+    overflow: hidden;
+}
+.progressbar-layout3 .cshero-progress-position {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    -webkit-transform: translate(0px, -50%);
+       -moz-transform: translate(0px, -50%);
+        -ms-transform: translate(0px, -50%);
+         -o-transform: translate(0px, -50%);
+            transform: translate(0px, -50%);
+}
+.progressbar-layout3 .cshero-progress-value {
+    font-size: 31px;
+    color: #222;
+    font-weight: 700;
+}
+.progressbar-layout3 .progress.vertical {
+    line-height: normal !important;
+}   

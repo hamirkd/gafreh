@@ -1,0 +1,1 @@
+[30-May-2017 09:38:06 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/shortcodes/shortcodes.php on line 2

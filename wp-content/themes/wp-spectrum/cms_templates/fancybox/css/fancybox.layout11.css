@@ -1,0 +1,22 @@
+.fancybox-layout11 .cshero-fancybox-wrapper {
+	position: relative;
+}
+.fancybox-layout11 .cshero-fancybox-wrapper a {
+	background: rgba(255, 255, 255, 0.71);
+    bottom: 30px;
+    color: #333231;
+    font-size: 18px;
+    font-weight: 700;
+    max-width: 225px;
+    padding: 10px 25px;
+    position: absolute;
+    text-transform: uppercase;
+    width: 100%;
+    line-height: 26px;
+}
+.fancybox-layout11 .cshero-fancybox-wrapper .title-child {
+	display: block;
+}
+.fancybox-layout11 .cshero-fancybox-wrapper a:hover .title-child {
+	color: #333231;
+}

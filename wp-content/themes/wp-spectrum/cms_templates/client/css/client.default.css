@@ -1,0 +1,17 @@
+.client-default .cshero-header{
+	margin-bottom: 30px;
+}
+.client-default .bx-wrapper {
+    max-width: 100% !important;
+}
+.client-default .cs-client-carousel-item-wrap {
+    border-right: 1px solid #eeeeee;
+}
+.client-default .cs-carousel-container {
+    text-align: center;
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: -3px;
+}
+.client-default .cs-carousel-container img {
+	padding: 15px 0;
+}

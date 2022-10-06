@@ -1,0 +1,36 @@
+.team-default .cshero-team-carousel-item {
+	margin-bottom: 0 !important;
+}
+.team-default .cshero-team-carousel-item article.team {
+	padding-bottom: 0 !important;
+}
+.team-default .cshero-team-info-wrap .cshero-team-category {
+	font-size: 14px;
+	line-height: 1;
+}
+.team-default .cshero-team-image {
+    position: relative;
+    margin-top: 20px;
+}
+.team-default .cshero-team-social {
+	margin: 20px 0;
+}
+.team-default .cshero-team-social a {
+	display: inline-block;
+    font-size: 22px;
+    height: inherit;
+    line-height: inherit;
+    padding: 0 6px;
+    text-align: center;
+    width: inherit;
+}
+.team-default .cshero-team-content {
+	margin-top: 15px;
+}
+.team-default .overlay.cshero-readmore {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

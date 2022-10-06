@@ -1,0 +1,155 @@
+.cshero_portfolio_filters{
+    margin-bottom: 45px !important;
+}
+.cshero_portfolio_filters ul li a:active,
+.cshero_portfolio_filters ul li a.active,
+.cshero_portfolio_filters ul li a:hover,
+.cshero_portfolio_filters ul li a:focus {
+    background: transparent !important;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+        -ms-box-shadow: none;
+         -o-box-shadow: none;
+            box-shadow: none;
+}
+.portfolio-layout5 .cshero-portfolio-item-content {
+    position: relative;
+    overflow: hidden;
+}
+.portfolio-layout5 .cshero-portfolio-item-content .cshero-portfolio-content-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 300ms linear 0ms;
+       -moz-transition: all 300ms linear 0ms;
+         -o-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+            transition: all 300ms linear 0ms;
+}
+.portfolio-layout5 .cshero-portfolio-item-content .cshero-portfolio-content-wrap-inner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.portfolio-layout5 .cshero-portfolio-meta-box .cshero-portfolio-title,
+.portfolio-layout5 .cshero-portfolio-meta-box .cshero-portfolio-category {
+    opacity: 0;
+    -webkit-transform: translateX(-300px);
+       -moz-transform: translateX(-300px);
+        -ms-transform: translateX(-300px);
+         -o-transform: translateX(-300px);
+            transform: translateX(-300px);
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .cshero-portfolio-meta-box,
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 20px;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap {
+    padding: 15px 20px 30px 20px;
+}
+.portfolio-layout5 .cshero-portfolio-content {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0px, -50%);
+       -moz-transform: translate(0px, -50%);
+        -ms-transform: translate(0px, -50%);
+         -o-transform: translate(0px, -50%);
+            transform: translate(0px, -50%);
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap {
+    top: inherit;
+    bottom: 0;
+    text-align: right;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap i {
+    font-size: 26px;
+    padding-right: 15px;
+}
+.portfolio-layout5 .cshero-portfolio-title {
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    -webkit-transition: all 250ms linear 0ms;
+       -moz-transition: all 250ms linear 0ms;
+         -o-transition: all 250ms linear 0ms;
+        -ms-transition: all 250ms linear 0ms;
+            transition: all 250ms linear 0ms;
+}
+.portfolio-layout5 .cshero-portfolio-category {
+    line-height: 1;
+    -webkit-transition: all 350ms linear 0ms;
+       -moz-transition: all 350ms linear 0ms;
+         -o-transition: all 350ms linear 0ms;
+        -ms-transition: all 350ms linear 0ms;
+            transition: all 350ms linear 0ms;
+}
+.portfolio-layout5 .cshero-portfolio-category a {
+    color: #fff;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a {
+    color: #fff;
+    display: block;
+    line-height: 1;
+    margin: 7px 0 0;
+    opacity: 0;
+    -webkit-transform: translateX(300px);
+       -moz-transform: translateX(300px);
+        -ms-transform: translateX(300px);
+         -o-transform: translateX(300px);
+            transform: translateX(300px);
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a:hover,
+.portfolio-layout5 .cshero-portfolio-title a:hover,
+.portfolio-layout5 .cshero-portfolio-category a:hover {
+    color: #222 !important;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a.more {
+    -webkit-transition: all 450ms linear 0ms;
+       -moz-transition: all 450ms linear 0ms;
+         -o-transition: all 450ms linear 0ms;
+        -ms-transition: all 450ms linear 0ms;
+            transition: all 450ms linear 0ms;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a.zoom {
+    -webkit-transition: all 550ms linear 0ms;
+       -moz-transition: all 550ms linear 0ms;
+         -o-transition: all 550ms linear 0ms;
+        -ms-transition: all 550ms linear 0ms;
+            transition: all 550ms linear 0ms;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a span {
+    position: relative;
+    line-height: 1;
+    display: inline-block;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a.more span:before,
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a.zoom span:before {
+    content:"\f498";
+    font-family:"Ionicons";
+    font-size: 24px;
+    padding-right: 15px;
+    position: absolute;
+    left: -30px;
+    top: -4px;
+}
+.portfolio-layout5 .cshero-portfolio-content-wrap .link-wrap a.zoom span:before {
+    content:"\f43e";
+}
+.portfolio-layout5 .cshero-portfolio-container:hover .cshero-portfolio-item-content .cshero-portfolio-meta-box .cshero-portfolio-title,
+.portfolio-layout5 .cshero-portfolio-container:hover .cshero-portfolio-item-content .cshero-portfolio-meta-box .cshero-portfolio-category,
+.portfolio-layout5 .cshero-portfolio-container:hover .cshero-portfolio-item-content .link-wrap a {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+       -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+         -o-transform: translateX(0);
+            transform: translateX(0);
+}
+.portfolio-layout5 .cshero-portfolio-item-content:hover .cshero-portfolio-content-wrap {
+    background: rgba(0,0,0,0.7);
+}

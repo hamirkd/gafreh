@@ -1,0 +1,131 @@
+.cshero_portfolio_filters ul li a {
+	border: medium none !important;
+    color: #888 !important;
+    font-size: 14px !important;
+    padding: 0 5px !important;
+    background-color: transparent !important;
+}
+.cshero_portfolio_filters ul li a:active,
+.cshero_portfolio_filters ul li a.active,
+.cshero_portfolio_filters ul li a:hover,
+.cshero_portfolio_filters ul li a:focus {
+    background: transparent !important;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+        -ms-box-shadow: none;
+         -o-box-shadow: none;
+            box-shadow: none;
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap {
+    padding: 0;
+    float: left;
+    position: relative;
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap:after {
+    border-width: 20px;
+    border-style: solid;
+    content: "";
+    height: 0;
+    width: 0;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    -webkit-transform: translate(0px, -50%);
+    -ms-transform: translate(0px, -50%);
+    -o-transform: translate(0px, -50%);
+    transform: translate(0px, -50%);
+    z-index: 10;
+}
+.portfolio-layout4 .cshero-portfolio-item:nth-child(2n) .cshero-portfolio-img-wrap:after {
+    left: 0;
+    right: auto;
+}
+.portfolio-layout4 .cshero-portfolio-content-wrap {
+    padding: 0 30px;
+}
+.portfolio-layout4 .cshero-portfolio-item:nth-child(2n) .cshero-portfolio-img-wrap {
+    float: right;
+}
+.portfolio-layout4 .cshero-portfolio-item:nth-child(2n) .cshero-portfolio-content-wrap {
+    text-align: right;
+}
+.portfolio-layout4 .cshero-portfolio-content-wrap-inner {
+    padding: 50px 0;
+}
+.portfolio-layout4 .cshero-portfolio-category a {
+    font-size: 14px;
+}
+.portfolio-layout4 .cshero-portfolio-title {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap .cshero-portfolio-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-transition: all 300ms linear 0ms;
+       -moz-transition: all 300ms linear 0ms;
+         -o-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+            transition: all 300ms linear 0ms;
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap .cshero-portfolio-overlay .link-wrap {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap .cshero-portfolio-overlay .link-wrap a {
+    width: 58px;
+    height: 58px;
+    display: inline-block;
+    line-height: 58px;
+    overflow: hidden;
+    text-align: center;
+    background: #fff;
+    border-radius: 50%;
+    padding: 0;
+    opacity: 0;
+    margin: 0 10px 10px 0;
+    color: #222 !important;
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap .cshero-portfolio-overlay .link-wrap a.zoom {
+    -webkit-transform: translateX(-200px) rotate(180deg);
+       -moz-transform: translateX(-200px) rotate(180deg);
+        -ms-transform: translateX(-200px) rotate(180deg);
+         -o-transform: translateX(-200px) rotate(180deg);
+            transform: translateX(-200px) rotate(180deg);
+    -webkit-transition: all 300ms linear 0ms;
+       -moz-transition: all 300ms linear 0ms;
+         -o-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+            transition: all 300ms linear 0ms;
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap .cshero-portfolio-overlay .link-wrap a.more {
+    -webkit-transition: all 300ms linear 0ms;
+       -moz-transition: all 300ms linear 0ms;
+         -o-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+            transition: all 300ms linear 0ms;
+    -webkit-transform: translateX(200px) rotate(180deg);
+       -moz-transform: translateX(200px) rotate(180deg);
+        -ms-transform: translateX(200px) rotate(180deg);
+         -o-transform: translateX(200px) rotate(180deg);
+            transform: translateX(200px) rotate(180deg);
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap:hover .cshero-portfolio-overlay {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+}
+.portfolio-layout4 .cshero-portfolio-img-wrap:hover .cshero-portfolio-overlay .link-wrap a {
+    opacity: 1;
+    -webkit-transform: translateX(0) rotate(0deg);
+       -moz-transform: translateX(0) rotate(0deg);
+        -ms-transform: translateX(0) rotate(0deg);
+         -o-transform: translateX(0) rotate(0deg);
+            transform: translateX(0) rotate(0deg);
+}

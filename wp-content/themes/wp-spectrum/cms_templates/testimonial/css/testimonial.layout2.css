@@ -1,0 +1,34 @@
+/* All default css style Default layout*/
+.testimonial-layout2 .cshero-header {
+    margin-bottom: 80px;
+}
+.testimonial-layout2 .cshero-testimonial-title {
+	color: #888;
+}
+.testimonial-layout2 .cshero-testimonial-image img,
+.testimonial-layout2 .cshero-testimonial-content {
+	margin: 0 0 5px;
+}
+.testimonial-layout2 .cshero-testimonial-image img {
+	border: 3px solid #222;
+	max-width: inherit;
+}
+.testimonial-layout2 .cshero_testimonial_content {
+	display: table;
+}
+.testimonial-layout2 .cshero-testimonial-image,
+.testimonial-layout2 .cshero-testimonial-content-wrapper {
+	display: table-cell;
+	vertical-align: top;
+}
+.testimonial-layout2 .cshero-testimonial-content-wrapper {
+	padding-left: 17px;
+}
+.testimonial-layout2 .cshero-testimonial-text {
+    font-size: 22px;
+    color: #222222;
+    font-style: italic;
+}
+.testimonial-layout2 .cshero-nav {
+	margin-top: 55px;
+}

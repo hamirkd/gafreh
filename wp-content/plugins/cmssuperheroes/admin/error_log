@@ -1,0 +1,2 @@
+[14-May-2017 13:07:45 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/admin/main.options.php on line 3
+[04-Jul-2017 20:53:29 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/admin/main.options.php on line 3

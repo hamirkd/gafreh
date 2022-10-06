@@ -1,0 +1,78 @@
+@CHARSET "ISO-8859-1";
+
+.cs-pricing.pricing-layout1 .cs-header {
+	margin-bottom: 40px;
+}
+.cs-pricing.pricing-layout1 .cs-pricing-title i {
+	color: #fff;
+	margin: 0 10px;
+}
+.cs-pricing.cs-pricing-button .btn {
+    background: #f8f8f8;
+}
+.cs-pricing.pricing-layout1 .cs-pricing-button {
+	position: relative;
+    overflow: hidden;
+}
+.cs-pricing.pricing-layout1 .cs-pricing-button .decor-pr {
+    position: absolute;
+    top: 0;
+    left: 0;
+     -webkit-transform: rotate(180deg);
+       -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+         -o-transform: rotate(180deg);
+            transform: rotate(180deg);
+}
+.cs-pricing.pricing-layout1 .pricing-video {
+    position: relative;
+    overflow: hidden;
+}
+.cs-pricing.pricing-layout1 .pricing-video-play {
+    width: 76px;
+    height: 44px;
+    background: url(../images/play-youtube.png) no-repeat;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    cursor: pointer;
+    -webkit-transform: translate(0px, -50%);
+       -moz-transform: translate(0px, -50%);
+        -ms-transform: translate(0px, -50%);
+         -o-transform: translate(0px, -50%);
+            transform: translate(0px, -50%);
+}
+.cs-pricing.pricing-layout1 .pricing-video-play:after {
+    content: "";
+}
+.cs-pricing.pricing-layout1 .pricing-video .decor-pr {
+    bottom: 7px;
+    left: 0;
+    position: absolute;
+}
+.cs-pricing.pricing-layout1 .pricing-video img + .decor-pr {
+    bottom: -1px;
+    left: -1px;
+}
+.cs-pricing.pricing-layout1 .cs-pricing-content-wrapper {
+    color: #222;
+    font-size: 15px;
+    line-height: 25px;
+    margin: 0 10px;
+}
+.cs-pricing.pricing-layout1 .cs-pricing-content-wrapper p {
+    margin: 0;
+}
+
+.cs-pricing.pricing-layout1 .cshero-sub-title {
+    line-height: 0.9;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.cs-pricing.pricing-layout1 .cshero-title {
+    line-height: 0.9;
+    margin-top: 0;
+}

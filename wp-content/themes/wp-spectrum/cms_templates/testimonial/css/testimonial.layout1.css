@@ -1,0 +1,9 @@
+/* All default css style Default layout*/
+
+.testimonial-layout1 .cshero-testimonial-title {
+	color: #888;
+}
+.testimonial-layout1 .cshero-testimonial-image img,
+.testimonial-layout1 .cshero-testimonial-content {
+	margin: 0 0 35px;
+}

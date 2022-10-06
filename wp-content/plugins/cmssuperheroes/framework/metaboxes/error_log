@@ -1,0 +1,5 @@
+[26-May-2017 02:04:45 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/metaboxes/blog_options.php on line 23
+[29-May-2017 01:29:26 America/Chicago] PHP Fatal error:  Call to undefined function cs_options() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/metaboxes/pricing.php on line 3
+[31-May-2017 04:35:17 America/Chicago] PHP Fatal error:  Call to undefined function cs_options() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/metaboxes/client.php on line 4
+[31-May-2017 06:24:55 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/metaboxes/restaurantmenu.php on line 5
+[05-Jul-2017 02:33:41 America/Chicago] PHP Fatal error:  Call to undefined function cs_options() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/metaboxes/post_video.php on line 3

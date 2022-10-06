@@ -1,0 +1,50 @@
+/*
+Theme Name: WP_Spectrum - kingstheme.com
+Theme URI: http://cmssuperheroes.com/wordpress/cshero
+Author: Cmssuperheroes Team
+Author URI: http://cmssuperheroes.com/
+Version: 2.0.7
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Description: In 2015, Creating a magazine website with WordPress has never been easier.
+Text Domain: wp_spectrum
+*/
+
+/**
+ * Table of Contents:
+ *
+*/
+
+/** Style all button site **/
+@import "css/buttons.css";
+
+/** Style mobule and type title module **/
+@import "css/module.css";
+
+/** Style all menu site **/
+@import "css/menu.css";
+
+/** Style all shortcode site **/
+@import "css/shortcodes.css";
+
+/** STYLE BASE SITE  **/
+@import "css/style.min.css";
+
+/** Style base spectrum site **/
+@import "css/style.spectrum.css";
+
+/** Style Shop **/
+@import "css/woocommerce.css";
+
+/** Style custom home **/
+@import "css/custom-home.css";
+
+/** Style RTL **/
+@import "style-rtl.css";
+
+/** Style reponsive **/
+@import "css/responsive.css";
+
+/** 3rd Extensions  **/
+@import "css/extensions.css";

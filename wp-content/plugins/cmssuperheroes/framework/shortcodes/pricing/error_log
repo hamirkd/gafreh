@@ -1,0 +1,1 @@
+[09-Jul-2017 15:50:07 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/shortcodes/pricing/pricing.php on line 2

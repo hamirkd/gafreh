@@ -1,0 +1,2 @@
+[27-May-2017 17:35:01 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode_param() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/vc_extra/vc_extra_fields.php on line 55
+[28-May-2017 12:29:54 America/Chicago] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/soltechburkina/public_html/wp-content/plugins/cmssuperheroes/framework/vc_extra/vc_extra_params.php on line 812

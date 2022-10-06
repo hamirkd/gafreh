@@ -1,0 +1,24 @@
+.fancybox-layout4.cshero-fancybox-wrap {
+	display: inline-block;
+	width: 100%;
+	background: #fff;
+}
+.fancybox-layout4 .cshero-fancybox-title-image {
+	position: relative;
+}
+.fancybox-layout4 .cshero-fancybox-title-wrap {
+    background: rgba(34, 34, 34, 0.7);
+    border-bottom: 2px solid #fff;
+    color: #ffffff;
+    margin: 0;
+    padding: 25px 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+.fancybox-layout4 .cshero-fancybox-content {
+	padding: 18px;
+}
+.fancybox-layout4 .cshero-fancybox-image img {
+    width: 100%;
+}

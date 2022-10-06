@@ -1,0 +1,46 @@
+/* Post carousel */ 
+.postcarousel-layout4 .cshero-title span {
+	background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    display: inline-block;
+    font-size: 30px;
+    line-height: normal;
+    padding: 12px 28px;
+}
+.postcarousel-layout4.cshero-post-carousel .cshero-header {
+	margin: 0 0 100px;
+}
+.postcarousel-layout4 .cshero-carousel-container {
+	position: relative;
+}
+.postcarousel-layout4 .cshero-carousel-effect {
+	background: rgba(0, 0, 0, 0.6);
+    bottom: 0;
+    padding: 12px 25px;
+    position: absolute;
+    width: 100%;
+    color: #fff;
+}
+.postcarousel-layout4 .cshero-carousel-title {
+	margin: 12px 0 0;
+}
+.postcarousel-layout4 .cshero-carousel-title a {
+	color: #fff;
+	font-size: 18px;
+}
+.postcarousel-layout4 .cshero-nav ul li a {
+	-webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+         -o-border-radius: 3px;
+            border-radius: 3px;
+}
+.postcarousel-layout4 .cshero-nav.vertical-center li {
+	bottom: 100px;
+    top: inherit;
+}
+
+
+
+
+

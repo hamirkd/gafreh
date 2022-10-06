@@ -1,0 +1,22 @@
+.cshero-fancybox-wrap {
+	display: inline-block;
+	width: 100%;
+}
+.fancybox-layout5 .cshero-fancybox-image {
+	max-width: 130px;
+    float: left;
+}
+.fancybox-layout5 .cshero-fancybox-image img {
+	width: 100%;
+	-webkit-border-radius: 100%;
+       -moz-border-radius: 100%;
+        -ms-border-radius: 100%;
+         -o-border-radius: 100%;
+            border-radius: 100%;
+}
+.fancybox-layout5 .cshero-fancybox-content {
+	padding-left: 142px;
+}
+.fancybox-layout5 .cshero-read-more .read-more-link {
+	font-size: 15px;
+}
